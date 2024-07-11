@@ -61,10 +61,10 @@ may need to be reviewed, revised, or even discarded.
 
 ::::::::::::::::::::::::::::::::::::::::::  discussion
 
-> It's 50x to 200x less expensive to get a requirement right in the first place
-> than to fix a requirement after implementation.
+## What do you require?
 
--Boehm and Papaccio, 1988
+"It's 50x to 200x less expensive to get a requirement right in the first place
+than to fix a requirement after implementation." - Boehm and Papaccio, 1988
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
