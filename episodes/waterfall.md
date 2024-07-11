@@ -17,24 +17,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Software Development Process
 
-Below are (most) of the different phases of the software development process. 
-These phases can be mixed, or (sometimes) reordered.
-This can happen for a variety of reasons.
-The line between requirements and design are often blurry.
-Implementation, testing and user docs often proceed concurrently.
-Sometimes, tests are written first in what is called Test Driven Development (TDD).
-Another thing to note is that the definition of roles vary.
-For example, the "customer" or "user" may also be the author of the software, or may be quite removed.
-
-1. Determine software requirements
-2. Software design 
-3. Implementation
-4. Software testing
-5. Software documentation
-6. Release/deploy the software to the customer 
-7. Ongoing maintenance
 
 ## The Waterfall Model
 
