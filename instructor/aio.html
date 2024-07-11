@@ -474,7 +474,7 @@ maintenance.</li>
 <p>Last updated on 2024-07-11 |
 
         <a href="https://github.com/INTERSECT-training/Project-Management/edit/main/episodes/waterfall.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
-<p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 0 minutes</p>
+<p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 30 minutes</p>
 <div class="text-end">
           <button role="button" aria-pressed="false" tabindex="0" id="expand-code" class="pull-right" data-expand="Expand All Solutions " data-collapse="Collapse All Solutions "> Expand All Solutions <i aria-hidden="true" data-feather="plus"></i></button>
         </div>
@@ -486,7 +486,9 @@ maintenance.</li>
 <div class="inner">
 <h3 class="card-title">Questions</h3>
 <ul>
-<li>FIXME</li>
+<li>What is the Waterfall model?</li>
+<li>How is the Waterfall model used in practice?</li>
+<li>When is it appropriate to use the Waterfall model?</li>
 </ul>
 </div>
 </div>
@@ -496,7 +498,9 @@ maintenance.</li>
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
 <ul>
-<li>FIXME</li>
+<li>Understand the Waterfall model.</li>
+<li>Practice using the Waterfall model.</li>
+<li>Learn when the Waterfall model works well.</li>
 </ul>
 </div>
 </div>
@@ -507,15 +511,59 @@ maintenance.</li>
 <a class="anchor" aria-label="anchor" href="#the-waterfall-model"></a>
 </h2>
 <hr class="half-width">
-<p>The idea of having defined phases is to try to complete each phase
-before the next phase begins. This is generally referred to as the
-waterfall model, ala “Progress flows downwards through the phases, like
-a waterfall.” Each phase produces specific deliverables, which feed into
-the next phase with the assumption that the artifacts from the previous
-phases are actually correct.</p>
+<figure><img src="../fig/waterfall.png" alt="The Waterfall model. Image from Wikimedia Commons." class="figure mx-auto d-block"></figure><p>The Waterfall model consists of various stages that follow
+sequentially – one after the other. The idea of having defined phases is
+to try to complete each phase before the next phase begins. This is
+generally referred to as the waterfall model, e.g., “Progress flows
+downwards through the phases, like a waterfall.” Each phase produces
+specific deliverables, which feed into the next phase with the
+assumption that the artifacts from the previous phases are actually
+correct.</p>
 <p>Ideally, each phase will also identify any issues or flaws in the
 previous phase. When this happens, you are supposed to iterate between
 phases to fix any issues that arise.</p>
+<p>Waterfall has either five or six stages, depending on the source, but
+for our purposes, we will consider the phases to be:</p>
+<ol style="list-style-type: decimal">
+<li>Requirements</li>
+<li>Design</li>
+<li>Implementation</li>
+<li>Verification</li>
+<li>Maintenance</li>
+</ol>
+<div id="lets-build-a-house" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="lets-build-a-house" class="callout-inner">
+<h3 class="callout-title">Let’s Build a House<a class="anchor" aria-label="anchor" href="#lets-build-a-house"></a>
+</h3>
+<div class="callout-content">
+<figure><img src="../fig/house.png" alt="A house icon - created by VectorMachines on Flaticon." class="figure mx-auto d-block"></figure><ol start="0" style="list-style-type: decimal">
+<li>Split into 4 groups and grab a set of LEGOs <span class="emoji" data-emoji="tm">™️</span>.</li>
+<li>(6 min) Gather requirements from your customer. Ask important
+questions to help you determine what needs to be done to build their
+dream house!</li>
+<li>(4 min) Determine your design. How can you satisfy the requirements
+with your LEGOs?</li>
+<li>(8 min) Build the house!</li>
+<li>(2 min) Show it to your customer and see how you did.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="discussion2" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Discussion<a class="anchor" aria-label="anchor" href="#discussion2"></a>
+</h3>
+<div class="callout-content">
+<p>How was that experience? What did you like? What did you dislike?</p>
+</div>
+</div>
+</div>
 </section><section><h2 class="section-heading" id="the-waterfall-model-in-real-life">The Waterfall Model in Real Life<a class="anchor" aria-label="anchor" href="#the-waterfall-model-in-real-life"></a>
 <a class="anchor" aria-label="anchor" href="#the-waterfall-model-in-real-life"></a>
 </h2>
@@ -524,9 +572,9 @@ phases to fix any issues that arise.</p>
 miscommunication of software requirements. These miscommunications may
 not even be identified until the software is demonstrated for clients or
 formal acceptance testing is completed. In traditional waterfall models,
-the client is often only involved in requirements phase, and in
-acceptance-testing or later phases.</p>
-<p>If mistakes occur using the Waterfall model, very significant amounts
+the client is often only involved in requirements phase and in
+acceptance-testing (or later phases).</p>
+<p>If mistakes occur using the waterfall model, very significant amounts
 of work may need to be reviewed, revised, or even discarded.</p>
 <div id="what-do-you-require" class="callout discussion">
 <div class="callout-square">
@@ -547,7 +595,7 @@ Papaccio, 1988</p>
 <li>Software requirements are very clear, well understood, and
 unchanging</li>
 <li>Technical implementation details are also very well understood
-(Generally considered more suited to manufacturing, but this is also
+(generally considered more suited to manufacturing, but this is also
 changing with rapid prototyping!)</li>
 </ul>
 <p>Inversely, waterfall model works terribly when these things aren’t
@@ -555,11 +603,9 @@ present and can lead to greatly exceeding time and financial budgets.
 Waterfall-based models don’t handle lack of knowledge, or change, very
 effectively. Poorly understood or changing software requirements,
 technology, or architecture choices can negatively impact the
-performance of the Waterfall-model. Though, it should be noted that a
-lack of software-engineering discipline kills virtually all
+performance of the waterfall-model. Though, it should be noted that a
+lack of software-engineering discipline virtually negates all
 approaches.</p>
-<p>Agile methodologies were suggested as a better alternative to
-Waterfall-based methods and are discussed in the next section.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
