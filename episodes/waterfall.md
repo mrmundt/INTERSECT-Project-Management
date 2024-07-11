@@ -102,6 +102,8 @@ Though, it should be noted that a lack of software-engineering discipline virtua
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- FIXME
+- The Waterfall model consists of stages that happen sequentially, one after another.
+- The Waterfall model is helpful when requirements are very clear and well understood.
+- The Waterfall model is difficult if requirements and technologies are unclear or change frequently.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
