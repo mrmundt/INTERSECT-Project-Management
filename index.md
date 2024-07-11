@@ -1,17 +1,15 @@
 ---
-layout: lesson
-root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
+site: sandpaper::sandpaper_site
 ---
-FIXME: home page introduction
 
-<!-- this is an html comment -->
+FIXME
 
-{% comment %} This is a comment in Liquid {% endcomment %}
+::::::::::::::::::::::::::::::::::::::::::  prereq
 
-> ## Prerequisites
->
-> FIXME
-{: .prereq}
+## Prerequisites
 
-{% include links.md %}
+There are no specific prerequisites for this lesson.
+
+FIXME
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
