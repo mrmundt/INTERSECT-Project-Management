@@ -1,6 +1,6 @@
 ---
 title: "The Waterfall Model"
-teaching: 10
+teaching: 5
 exercises: 20
 
 ---
