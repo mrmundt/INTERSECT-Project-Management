@@ -182,6 +182,24 @@ Show them the appropriate images:
 1. [Customer 1 - Racecar](fig/customer1-car.jpg)
 2. [Customer 2 - RV](fig/customer2-car.jpg)
 
+Assign two groups to each customer. The groups will ask questions together but then
+separate to do their individual work. The intent of this is to see how two groups
+who gathered the same information may approach work differently.
+
+Instructions to give to the customers:
+
+> Stage 2 - Agile Methodology / Scrumban: The attendees will break up into 4 groups
+> - two groups assigned to each customer. You will be given a picture of a car.
+> **WITHOUT SHOWING THEM THE PICTURE**, you will describe the requirements for
+> the car in the picture to them. Start really basic / high level / vague
+> like customers sometimes do. "I want you to build me a car." The attendees
+> should then start asking you questions about the house: "How many wheels? How many
+> windows and doors?" (etc. etc.) They don't get as much time for this - only 4 minutes.
+> Then they go through a Kanban board task writing / backlog creation stage for 4 minutes.
+> They will then do a "sprint" / iteration and try to get something created in the next 6 minutes.
+> They bring it back to you. You tell them what's right / wrong. They adjust their
+> Kanban board / plan their "sprint" (repeat for three total iterations).
+
 :::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::

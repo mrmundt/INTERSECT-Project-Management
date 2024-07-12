@@ -69,6 +69,23 @@ Show them the appropriate images:
 1. [Customer 1 - Box style house](fig/customer1-house.jpg)
 2. [Customer 2 - Cabin style house](fig/customer2-house.png)
 
+Assign two groups to each customer. The groups will ask questions together but then
+separate to do their individual work. The intent of this is to see how two groups
+who gathered the same information may approach work differently.
+
+Instructions to give to the customers:
+
+> Stage 1 - Waterfall Model: The attendees will break up into 4 groups - two
+> groups assigned to each customer (you). You each will be given a picture of a
+> house. **WITHOUT SHOWING THEM THE PICTURE**, you will describe the requirements
+> for the house in the picture to them. Start really basic / high level / vague
+> like customers sometimes do. "I want you to build me a house." The attendees
+> should then start asking you questions about the house: "How tall? How many
+> windows and doors?" (etc. etc.) They have 6 minutes to gather the requirements.
+> Then they aren't allowed to talk to you again while they build the house.
+> After 12 minutes of design and implementation, they show you their "completed"
+> house. You provide feedback on what is wrong, what is right, etc.
+
 :::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
