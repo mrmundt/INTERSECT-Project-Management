@@ -59,6 +59,18 @@ we will consider the phases to be:
 3. (8 min) Build the house!
 4. (2 min) Show it to your customer and see how you did.
 
+:::::::::: instructor
+
+Choose two people to act as customers (either two of the attendees or other instructors/TAs).
+Assign one of them as "Customer 1" and the other as "Customer 2".
+
+Show them the appropriate images:
+
+1. [Customer 1 - Box style house](fig/customer1-house.jpg)
+2. [Customer 2 - Cabin style house](fig/customer2-house.png)
+
+:::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::: discussion
