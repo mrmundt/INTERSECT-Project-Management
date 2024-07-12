@@ -172,6 +172,18 @@ called Scrumban! In this exercise, you will be using LEGOs :tm: to build a car.
     need be).
 6. Repeat steps 3-5 two more times!
 
+:::::::::: instructor
+
+Choose two people to act as customers (either two of the attendees or other instructors/TAs).
+Assign one of them as "Customer 1" and the other as "Customer 2".
+
+Show them the appropriate images:
+
+1. [Customer 1 - Racecar](fig/customer1-car.jpg)
+2. [Customer 2 - RV](fig/customer2-car.jpg)
+
+:::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::: discussion
