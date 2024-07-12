@@ -6,7 +6,8 @@ exercises: 30
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-FIXME
+- Explore the Scrum, Kanban, and MoSCoW frameworks.
+- Practice using Scrum and Kanban with a team.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -151,12 +152,41 @@ is time remaining in the sprint).
 
 ::::::::::::::::::::: challenge
 
+## Scrumban
 
+Did you know that you can combine features from both Scrum and Kanban? This is
+called Scrumban! In this exercise, you will be using LEGOs :tm: to build a car.
+
+![](fig/car.png){alt='A car icon - created by Freepik on Flaticon.'}
+
+0. Split into 4 groups and grab a set of LEGOs :tm:.
+1. (4 min) Product vision: gather requirements, goals, visions, etc., from your customer.
+2. (4 min) Project backlog: Create a Kanban board for your project on one of the walls near you
+   with the columns "To Do", "In Progress", and "Done". Create your "backlog" by writing the features
+   or work to be done on the sticky notes and putting them in the "To Do" column.
+3. (2 min) Sprint planning: Decide what work will be completed this sprint. Move those sticky notes
+   to the "In Progress" column.
+4. (4 min) Sprint work: **BUILD**!
+5. (2 min) Sprint review: Show what you have to your customer and get feedback. Make changes to
+    your Kanban board as necessary (e.g., move completed work to "Done", adjust work in "To Do" if
+    need be).
+6. Repeat steps 3-5 two more times!
 
 :::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::: discussion
+
+How was that experience? What did you like? What did you dislike?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+That's it, folks! You now have knowledge of different project management methods
+for software projects.
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- FIXME
+- The Scrum framework focuses on time-boxed iterations of work with consistent customer feedback.
+- The Kanban method relies on visual tracking of work.
+- The MoSCoW method focuses on labeling work as "Must haves", "Should haves", "Could haves", and "Won't haves."
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
