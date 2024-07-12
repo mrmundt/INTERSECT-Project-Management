@@ -53,7 +53,8 @@ we will consider the phases to be:
 ![](fig/house.png){alt='A house icon - created by VectorMachines on Flaticon.'}
 
 0. Split into 4 groups and grab a set of LEGOs :tm:.
-1. (6 min) Gather requirements from your customer. Ask important questions to help you determine what needs to be done to build their dream house!
+1. (6 min) Gather requirements from your customer. 
+   Ask important questions to help you determine what needs to be done to build their dream house!
 2. (4 min) Determine your design. How can you satisfy the requirements with your LEGOs?
 3. (8 min) Build the house!
 4. (2 min) Show it to your customer and see how you did.
@@ -91,7 +92,8 @@ than to fix a requirement after implementation." - Boehm and Papaccio, 1988
 The Waterfall model works well when:
 
 - Software requirements are very clear, well understood, and unchanging
-- Technical implementation details are also very well understood (generally considered more suited to manufacturing, but this is also changing with rapid prototyping!)
+- Technical implementation details are also very well understood (generally 
+  considered more suited to manufacturing, but this is also changing with rapid prototyping!)
 
 Inversely, waterfall model works terribly when these things aren't present and
 can lead to greatly exceeding time and financial budgets.
